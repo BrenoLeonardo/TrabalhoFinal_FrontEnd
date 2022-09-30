@@ -9,7 +9,8 @@
 <br>
               
  ## :heavy_check_mark: Tecnologia e framework utilizadas
-- `BOOTSTRAP `     `VSCode `
+- `BOOTSTRAP `
+- `VSCode `
 
 ## Equipe do trabalho (ManguecaTEC):
 
